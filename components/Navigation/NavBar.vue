@@ -1,5 +1,5 @@
 <template>
-  <nav class="ease-in-out duration-300 w-full absolute z-10">
+  <nav class="ease-in-out duration-300 w-full relative z-10">
     <div class="flex container mx-auto items-center justify-between px-6 py-4 w-full">
       <div class="w-12">
         <NavigationLogo></NavigationLogo>
@@ -13,7 +13,7 @@
             <UiButtonsTertiary @clicked="$router.push({name: 'index'})">Home</UiButtonsTertiary>
           </li>
           <li>
-            <UiButtonsTertiary @clicked="$router.push({name: 'courses'})">About Us</UiButtonsTertiary>
+            <UiButtonsTertiary @clicked="$router.push({name: ''})">About Us</UiButtonsTertiary>
           </li>
           <li>
             <UiButtonsTertiary @clicked="$router.push({name: 'index', hash: '#roadmap'})">Road Map</UiButtonsTertiary>
@@ -22,7 +22,7 @@
             <UiButtonsTertiary @clicked="$router.push({name: 'index', hash: '#tokenomics'})">Tokenomics</UiButtonsTertiary>
           </li>
           <li>
-            <UiButtonsPrimary @clicked="$router.push({name: 'signup'})">Sign Up</UiButtonsPrimary>
+            <UiButtonsPrimary @clicked="$router.push({name: ''})">Sign Up</UiButtonsPrimary>
           </li>
         </ul>
       </nav>

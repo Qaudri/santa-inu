@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'primary': '#FF703C',
-        'secondary': '#FFE4DA',
+        'primary': '#378B29',
+        'secondary': '#FF0000',
       },
 
       height: theme => ({
@@ -39,5 +39,5 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 }
