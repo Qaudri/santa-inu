@@ -9,11 +9,11 @@
           <UiTypographyP class="w-full mt-4">Christmas is around the corner! <br />The season of giving is here and the revolutionary meme token Santa Inu is planning to give back in huge amounts to holders leading up to Christmas. 💵70% taxes generated are use to buyback into Micky Rat. 20% taxes are converted into USDT and given to holders who purchase Santa inu and hold as a reflection rewards. 10% will be for marketing of Santa inu.<br />Santa inu is not just a festival memetoken  is a meme token operating on the BEP-20 Blockchain technology (Binance Smart Chain).Santa inu aims to be one of the most successful Christmas project in 2023 and the years to come, with 20% usdt rewards every day to its holders! We are taking advantage of the upcoming Holiday to gain the crypto community's attention but as the weeks go by, this project will gain its reputation through continuous communication with its investors, aggressive marketing campaigns, listings, and constant delivery from the leadership team. Kindly  invite your friends family love ones on this wonderful journey alongside our wonderful loyal community!</UiTypographyP>
 
           <div class="flex gap-8 mt-8">
-          <NuxtLink to="" class="group py-2 px-5 text-white focus:text-white hover:text-black bg-primary hover:bg-white focus:outline-primary font-medium text-base 2xl:text-lg justify-center duration-300 ease-in-out rounded-md outline-none focus:outline-none flex items-center gap-4">
+          <NuxtLink to="https://t.me/santainu1only" class="group py-2 px-5 text-white focus:text-white hover:text-black bg-primary hover:bg-white focus:outline-primary font-medium text-base 2xl:text-lg justify-center duration-300 ease-in-out rounded-md outline-none focus:outline-none flex items-center gap-4">
             <IconsTelegram class="w-7 h-7 text-white group-hover:text-black duration-300 ease-in-out" />
             <UiTypographyP>Join Telegram</UiTypographyP> 
           </NuxtLink>
-          <NuxtLink to="" class="group py-2 px-5 text-black focus:text-white hover:text-white bg-white hover:bg-primary focus:outline-primary font-medium text-base 2xl:text-lg justify-center duration-300 ease-in-out rounded-md outline-none focus:outline-none flex items-center gap-4">
+          <NuxtLink to="https://twitter.com/santainuch/" class="group py-2 px-5 text-black focus:text-white hover:text-white bg-white hover:bg-primary focus:outline-primary font-medium text-base 2xl:text-lg justify-center duration-300 ease-in-out rounded-md outline-none focus:outline-none flex items-center gap-4">
             <IconsTwitter class="w-7 h-7 text-black group-hover:text-white duration-300 ease-in-out" />
             <UiTypographyP>Follow on Twitter</UiTypographyP> 
           </NuxtLink>
